@@ -109,3 +109,35 @@ left:0;
     opacity:1;
 }
 
+.title{
+    display: flex;
+    justify-content: center;
+}
+
+.sidebar_menu{
+    position: fixed;
+    /* top: 60px;  */
+    left: -300px;
+    /* height: calc(100vh - 60px); */
+}
+
+.btn_one i{
+    position: fixed;
+    /* top: 50px; */
+    left: 16px;
+    color: white;
+}
+
+.title{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 60px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+    left: 19rem;
+}
