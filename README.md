@@ -15,7 +15,7 @@ A clean and responsive **sidebar navigation menu** built using pure HTML and CSS
 
 - 📱 Responsive sidebar design  
 - 🎨 Clean and modern UI  
-- 📂 Multiple navigation sections (Gallery, Shortcuts, Events, etc.)  
+- 📂 Multiple dumy navigation sections (Gallery, Shortcuts, Events, etc.)  
 - ❌ Close button for sidebar  
 - 🔗 Social media icons at bottom  
 - ⚡ Lightweight (No JavaScript required)
